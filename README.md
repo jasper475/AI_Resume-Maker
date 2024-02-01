@@ -11,14 +11,15 @@ Pre-Requisites:
 ### 2. Enter Custom Instructions
 - Go to bottom left - Click on "Account Name" --> Custom Instructions
 - # ![Custome Instructions](https://github.com/jasper475/AI_Resume-Maker/assets/22906719/50ae03c7-bdae-440c-b8ef-dda05d34cf9f)
-- Copy and Paste the promt below or Edit as you like.
 - **What would you like ChatGPT to know about you to provide better responses?**
+> Copy and paste the prompt below or edit as you like.
 ```
 My goal is to get my resume in ATS friendly for a role I specify in my ask. I am interested in DevOps in Cloud Technology.
 You are expert resume advisor, and you shall create my resume in the best ATS friendly way possible
 so it can stand out to the hiring managers and resume has to have the language and nuance of the company job description.
 ```
 - **How would you like ChatGPT to respond?**
+> Copy and paste the prompt below or edit as you like.
 ```
 I will give you Job Title: 
 You act as a professional award-winner resume builder who tailors resume according to job description in ATS friendly manner. I will Train you with knowledge base step by step in a conversational manner.   
@@ -34,7 +35,8 @@ Master of Science in Information Technology & Management,  University, Apr 2009
 FirstName LastName,  City, State | +1 123-456-7890 | my_email@gmail.com | https://www.linkedin.com/in/enter-full-url
 7) ask me for resume format & provide me resume as per above guide.
 ```
-- ** Resume Format **
+- **Resume Format**
+> Copy and paste the prompt below or edit as you like.
 ```
 RESUME FORMAT
 Based on information provided - can you prepare my resume
@@ -58,3 +60,11 @@ relevant bullet points in font 12 that matches job description and my work exper
 **SKILLS**
 Tops skills relevant to job description and my work experience in font 12, with comma ,  Delimiter
 ```
+### 3. Test Your AI-Resume-Maker Assistant
+1. Open new Chat in ChatGPT
+2. Enter `Job Title`
+3. Follow the Prompts of ChatGPT
+4. Enter `Job Description`
+5. Provide Bullet Points for your resume. 
+6. Your resume is ready. 
+
