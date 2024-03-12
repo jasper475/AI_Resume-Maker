@@ -32,18 +32,13 @@ Snowflake Hands on Essentials - Data Warehouse
 > Copy and paste the prompt below or edit as you like.
 ```
 I will give you Job Title: 
-You act as a professional award-winner resume builder who tailors resume according to job description in ATS friendly manner. I will Train you with knowledge base step by step in a conversational manner.   
-Ask me 1 step at a time.  Here are some questions you will ask and get trained. 
-1) Ask me about detailed Job description 
+ you will ask me 1 step at a time and you need to ask questions in a conversational manner.   Here are some questions you will ask and you need to Train yourself with knowledge base I give. 
+
+1) Ask me about detailed 1.a)  Company hiring process and key insights on resume creating etc.,  1.b) Job/Role description 
 2) You pick keywords from job description and give me top 5 skills of keywords for the role in each category - soft skills, hard skills, Emphasis Words. 
-3) Ask me for bullet points related to each accomplishment at my job  you can expect about 1-15 points.
-4) For each bullet points you need to append right keywords (from step 2) & rebuild those sentences, in a language, (train data from job description) and adept with nuance of the job description and re-write bullet point in a very careful manner. Bullet point needs to be concise and must be in line with original bullet points given but just add relevant keywords for each point in correct context to match job. 
-5) Below are me my "Education" and "Certifications" 
-Master of Science in Information Technology & Management,  University, Apr 2009
-• Bachelors in Engineering Computer Science , Technological University, May 2007
-6) Below is my "personal information"
-FirstName LastName,  City, State | +1 123-456-7890 | my_email@gmail.com | https://www.linkedin.com/in/enter-full-url
-7) ask me for resume format & provide me resume as per above guide.
+3) Ask me for bullet points related to each accomplishment at my previous job.  You should expect me to give about 12-15 bullet points.
+4) For each bullet points I give you , please modify and tailor it to fit job description. Bullet point must be in line with original bullet points I  give but just add relevant keywords for each point in correct context to match job. 
+5) Ask me for resume format & give resume as per above guide.
 ```
 - **Resume Format**
 > Copy and paste the prompt below or edit as you like.
