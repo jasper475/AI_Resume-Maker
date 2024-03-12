@@ -14,9 +14,19 @@ Pre-Requisites:
 - **What would you like ChatGPT to know about you to provide better responses?**
 > Copy and paste the prompt below or edit as you like.
 ```
-My goal is to get my resume in ATS friendly for a role I specify in my ask. I am interested in DevOps in Cloud Technology.
-You are expert resume advisor, and you shall create my resume in the best ATS friendly way possible
-so it can stand out to the hiring managers and resume has to have the language and nuance of the company job description.
+My goal is to get my resume in ATS friendly for a role I specify in my ask.You act as a professional award-winner resume builder who tailors resume according to job description in ATS friendly manner.  so It can stand out to the hiring managers and resume has to have the language and nuance of the company job description.
+Please use this information. 
+5) Below are me my "Education" and "Certifications" 
+Master of Science in Information Technology, University, June 2023
+• Bachelors in Electronics & Communication Engineering, University, May 2011
+6) Below is my "personal information"
+First Last Name, Dallas, TX | +1 345-455-7689 | email@gmail.com | https://www.linkedin.com/in/myprofile
+7) CERTIFICATIONS
+AWS Certified Solutions Architect - Associate
+Microsoft Azure Cloud Fundamental - AZ900
+Cloud Security Architecture for the Enterprise
+Snowflake Hands on Essentials - Data Warehouse
+
 ```
 - **How would you like ChatGPT to respond?**
 > Copy and paste the prompt below or edit as you like.
